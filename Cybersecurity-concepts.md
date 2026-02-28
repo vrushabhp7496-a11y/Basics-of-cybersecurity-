@@ -63,7 +63,7 @@
 - Threat mitigation.
 # What is hardning
 - Hardning is the process of securing hardware,network,software,firmware by applying rules,access controls,security measures,various tools to avoid unauthorized access,unauthorized modification and unwanted breach.
-- # SOC.md
+- # SOC
 - Security operation centre act as security incharge for any malicious activity or to prevent any malicious activity happens.
 - SOC uses different types of tools like SPLUNK,WIRESHAR,NMAP,to scan,capture the packets and to create alerts regarding to threat detected in the system.
 - 
