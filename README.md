@@ -110,6 +110,8 @@ Here are the tools and concepts I have practiced and documented in other reposit
 - Network Security & Hardening
 - Active Directory (AD) Hardening
 - Firewall (FW) Configuration
+- Cryptography
+- IDS fundamentals
 - Phishing Analysis & Tools (Gophish, SET, Evilginx2)
 
 ### 🌐 Network & Protocols
